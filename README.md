@@ -17,11 +17,16 @@ Currently the code writes 20 words per puzzle.
 
 Coming soon...
 Ability to test the features
+
 Ability to Customize the labels
+
 Ability to Customize number of words per puzzle
+
 Ability to Add Table, Header, Footer to the puzzles
+
 Ability to Add images to the puzzles
+
 Ability to Add more kids of puzzles
 
-Keep in touch:
-nrajora708 ig
+Keep in touch (fill in the blanks)
+nitinr708 outlook com
