@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. watcher         a) Ladle
+2. observer        b) Spectator
+3. witness         c) Urn
+4. spoon           d) Suit
+5. scoop           e) Rind
+6. dipper          
+7. server          
+8. outfit          
+9. costume         
+10. uniform         
+11. ensemble        
+12. peel            
+13. skin            
+14. husk            
+15. coat            
+16. pot             
+17. container       
+18. vessel          
+19. pitcher         
+20. jug             

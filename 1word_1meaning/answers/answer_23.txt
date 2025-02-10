@@ -1,0 +1,22 @@
+Answer Key:
+
+take-off -> g
+departure -> g
+rebel -> d
+rising -> d
+revolt -> d
+unrest -> d
+disturbance -> d
+jovial -> a
+genial -> a
+amicable -> a
+generous -> b
+giving -> b
+obligatory -> c
+compulsory -> c
+required -> c
+necessary -> f
+essential -> e
+clearness -> h
+lucid -> h
+transparency -> h

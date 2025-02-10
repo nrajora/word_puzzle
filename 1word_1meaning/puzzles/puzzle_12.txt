@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. blaze           a) Strand
+2. furnace         b) Terminate
+3. firestorm       c) Hank
+4. coil            d) Inferno
+5. reel            e) Latter
+6. length          f) Recent
+7. bundle          
+8. ball            
+9. thread          
+10. component       
+11. filament        
+12. fibre           
+13. modern          
+14. fresh           
+15. latest          
+16. current         
+17. novel           
+18. end             
+19. final           
+20. concluding      

@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. hurried         a) Indolent
+2. swift           b) Idle
+3. bang            c) Arena
+4. clatter         d) Din
+5. embrace         e) Retain
+6. clasp           f) Agile
+7. hold            g) Apex
+8. fondle          h) Rattle
+9. snuggle         i) Rapid
+10. stadium         j) Cuddle
+11. ground          
+12. summit          
+13. peak            
+14. top             
+15. zenith          
+16. pinnacle        
+17. motionless      
+18. stationary      
+19. indolent        
+20. sluggish        

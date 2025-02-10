@@ -1,0 +1,22 @@
+Answer Key:
+
+sand -> g
+dirt -> b
+pebbles -> g
+stones -> g
+gale -> a
+gust -> f
+breeze -> f
+storm -> d
+hurricane -> a
+cyclone -> a
+fields -> c
+pastures -> c
+paddocks -> c
+(where-horses-are-trained) -> c
+leas -> c
+whiten -> e
+lighten -> e
+decolourize -> e
+blanch -> e
+countryside -> h

@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. bow             a) Amiable
+2. down            b) Protrude
+3. friendly        c) Affable
+4. sociable        d) Weary
+5. affable         e) Defer
+6. likable         f) Dreary
+7. tasteless       g) Droop
+8. mild            h) Lenient
+9. plain           i) Bland
+10. flavourless     j) Grim
+11. tired           
+12. fatigue         
+13. drained         
+14. drowsy          
+15. knackered       
+16. worn            
+17. out             
+18. dull            
+19. boring          
+20. monotonous      

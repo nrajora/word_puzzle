@@ -1,0 +1,22 @@
+Answer Key:
+
+confused -> a
+chaos -> a
+disarray -> a
+messy -> a
+reduce -> b
+less -> b
+vocal -> e
+frank -> e
+candid -> e
+open -> e
+direct -> e
+eager -> e
+vehement -> e
+unavoidable -> c
+assured -> c
+certain -> c
+fated -> c
+sure -> c
+intelligence -> d
+mental -> d

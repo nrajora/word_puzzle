@@ -1,0 +1,22 @@
+Answer Key:
+
+tar -> c
+pitch -> b
+runway -> c
+change -> h
+modify -> h
+amend -> f
+torrent -> d
+waterfall -> d
+stich -> g
+embroidery -> g
+seam -> g
+hem -> g
+traveller -> i
+vagrant -> i
+vagabond -> i
+nomad -> i
+tramp -> a
+curl -> e
+wave -> e
+fizz -> e

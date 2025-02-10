@@ -1,0 +1,22 @@
+Answer Key:
+
+dash -> i
+diversion -> c
+deviation -> c
+envious -> f
+bitter -> f
+green-eyed -> f
+resentful -> f
+contract -> g
+contagious -> h
+catching -> h
+transmittable -> h
+solider -> b
+trooper -> b
+fighter -> b
+dotted -> a
+freckled -> a
+creek -> e
+bay -> e
+cove -> e
+hurl -> d

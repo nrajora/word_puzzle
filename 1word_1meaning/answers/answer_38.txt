@@ -1,0 +1,22 @@
+Answer Key:
+
+speech -> b
+difficulty -> b
+slutter -> b
+cherished -> a
+beloved -> f
+precious -> a
+expensive -> f
+miserly -> d
+careful -> d
+frugal -> d
+economical -> d
+cheap -> d
+brilliance -> g
+wonder -> g
+splendour -> g
+ailment -> c
+illness -> c
+sickness -> c
+condition -> c
+forefather -> e

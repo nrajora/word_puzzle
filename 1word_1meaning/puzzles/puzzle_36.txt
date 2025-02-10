@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. lessen          a) Elevator
+2. drop            b) Scarcity
+3. deteriorate     c) Decline
+4. up              d) Terminate
+5. serious         e) Earnest
+6. grave           f) Gather
+7. sober           g) Diminish
+8. genuine         h) Serious
+9. solemn          
+10. conclude        
+11. sack            
+12. axe             
+13. dismiss         
+14. assemble        
+15. congregate      
+16. collect         
+17. shortage        
+18. lack            
+19. dearth          
+20. scanty          

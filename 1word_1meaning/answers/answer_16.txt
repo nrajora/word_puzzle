@@ -1,0 +1,22 @@
+Answer Key:
+
+rustic -> f
+pastoral -> f
+city -> g
+town -> g
+borough -> g
+defend -> h
+fake -> d
+pretend -> d
+assume -> d
+sham -> d
+linger -> c
+delay -> c
+loiter -> c
+plod -> c
+prompt -> e
+on -> e
+time -> e
+accept -> a
+submit -> b
+comply -> b

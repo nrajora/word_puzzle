@@ -1,0 +1,22 @@
+Answer Key:
+
+watcher -> b
+observer -> b
+witness -> b
+spoon -> a
+scoop -> a
+dipper -> a
+server -> a
+outfit -> d
+costume -> d
+uniform -> d
+ensemble -> d
+peel -> e
+skin -> e
+husk -> e
+coat -> e
+pot -> c
+container -> c
+vessel -> c
+pitcher -> c
+jug -> c

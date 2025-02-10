@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. meagre          a) Retreat
+2. nimble          b) Supple
+3. responsive      c) Spry
+4. soft            d) Wail
+5. flexible        e) Agile
+6. mobile          f) Protrude
+7. elastic         g) Scarcity
+8. recoil          
+9. withdraw        
+10. evacuate        
+11. flee            
+12. jut             
+13. overhang        
+14. bulge           
+15. swell           
+16. howl            
+17. moan            
+18. scream          
+19. yelp            
+20. whine           

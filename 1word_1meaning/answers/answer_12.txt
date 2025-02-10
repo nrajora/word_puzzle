@@ -1,0 +1,22 @@
+Answer Key:
+
+blaze -> d
+furnace -> d
+firestorm -> d
+coil -> c
+reel -> c
+length -> c
+bundle -> c
+ball -> c
+thread -> a
+component -> a
+filament -> a
+fibre -> a
+modern -> f
+fresh -> f
+latest -> f
+current -> f
+novel -> f
+end -> b
+final -> e
+concluding -> e

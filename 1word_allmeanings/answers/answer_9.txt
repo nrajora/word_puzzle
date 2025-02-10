@@ -1,0 +1,22 @@
+Answer Key:
+
+Saunter -> n
+Rowdy -> b
+Audible -> p
+Conspire -> c
+Frivolousnot -> q
+Lenient -> h
+Rectify -> i
+Droop -> g
+Hoard -> l
+Vigilant -> o
+Retain -> j
+Opponent -> d
+Valour -> m
+Decline -> r
+Elevator -> f
+Earnest -> k
+Terminate -> e
+Gather -> s
+Scarcity -> t
+Agile -> a

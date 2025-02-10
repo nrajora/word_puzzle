@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. vibrant         a) Moral
+2. dynamic         b) Vigilant
+3. spirited        c) Vigorous
+4. hesitant        d) Animated
+5. cautious        e) Tentative
+6. uncertain       f) Reject
+7. unsure          g) Swagger
+8. discard         
+9. castoff         
+10. boastfulness    
+11. boasting        
+12. bragging        
+13. arrogance       
+14. ethical         
+15. good            
+16. right           
+17. honest          
+18. honourable      
+19. jus             
+20. virtuous        

@@ -1,0 +1,22 @@
+Answer Key:
+
+food -> c
+storage -> c
+storeroom -> c
+sombre -> b
+grim -> b
+content -> a
+carless -> g
+thoughtless -> g
+memento -> d
+keepsake -> d
+offering -> e
+harmony -> j
+serene -> j
+calm -> j
+sanctuary -> j
+refugee -> j
+trick -> h
+coax -> f
+entice -> f
+robust -> i

@@ -1,0 +1,22 @@
+Answer Key:
+
+upraise -> c
+hardworking -> h
+industrious -> h
+assiduous -> h
+beer -> f
+drink -> f
+alcohol -> f
+diary -> g
+journal -> g
+calendar -> g
+logbook -> g
+record -> g
+irritable -> i
+bad-tempered -> i
+cranky -> i
+sullen -> i
+annoyed -> a
+offer -> d
+a -> e
+deep -> b

@@ -1,0 +1,22 @@
+Answer Key:
+
+gloats -> b
+show-off -> b
+brag -> b
+lots-of -> f
+many -> f
+custom-made -> e
+made-to-order -> e
+bespoke-place-or-thing -> e
+made-for-you -> e
+awarded -> a
+recognition -> a
+honour -> a
+happening-soon -> d
+about-to-happen -> d
+close -> d
+near -> d
+forthcoming -> d
+on-the-way -> d
+famous -> c
+illustrious -> c

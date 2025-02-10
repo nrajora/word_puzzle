@@ -1,0 +1,22 @@
+Answer Key:
+
+part -> e
+fragment -> f
+piece -> f
+portion -> f
+segment -> f
+element -> e
+hurry -> d
+hasten -> a
+quicken -> a
+rush -> a
+lukewarm -> c
+extravagant -> i
+ornate -> i
+decorative -> i
+elegant -> b
+unfriendly -> h
+antagonistic -> h
+aggressive -> h
+defrost -> g
+melt -> g

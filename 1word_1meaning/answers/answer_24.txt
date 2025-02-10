@@ -1,0 +1,22 @@
+Answer Key:
+
+inactive -> a
+sleeping -> a
+resting -> a
+clean -> c
+immaculate -> c
+unspoiled -> c
+perfect -> c
+spotless -> c
+reverse -> d
+inverse -> d
+contrary -> d
+opposing -> d
+opposite -> d
+rob -> e
+steal -> e
+thieve -> e
+basic -> b
+unpolished -> b
+amateur -> b
+rough -> b

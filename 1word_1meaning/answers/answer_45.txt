@@ -1,0 +1,22 @@
+Answer Key:
+
+disappear -> b
+e.g.the-grey-clouds-blotted-out-the-sun -> b
+gleeful -> g
+joyful -> g
+cheful -> g
+excited -> g
+sepection -> e
+dressed(people) -> a
+covered(things) -> a
+for-bird-means-sit-rest-or-alight -> f
+for-person-means-sit-on-something -> f
+for-building-means-be-situated-or-located -> f
+broken-down -> d
+shabby -> d
+ramshackle -> d
+battered -> d
+rickety -> d
+worn-out -> d
+in-need-of -> d
+growing -> c

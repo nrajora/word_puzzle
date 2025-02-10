@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. height          a) Opaque
+2. lofty           b) Trivial
+3. elevation       c) Strike
+4. hit             d) Replicate
+5. pound           e) Altitude
+6. punch           f) Petty
+7. copy            g) Scurry
+8. mimic           
+9. imitate         
+10. unimportant     
+11. small           
+12. penalty         
+13. fine            
+14. petty           
+15. cloudy          
+16. muddy           
+17. misty           
+18. smoky           
+19. dense           
+20. scramble        

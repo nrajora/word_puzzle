@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. star            a) Tremor
+2. celebrity       b) Еmu
+3. hero            c) Fault
+4. muscle          d) Tendon
+5. ligament        e) Idol
+6. cartilage       f) Steeple
+7. error           
+8. responsibility  
+9. liability       
+10. blunder         
+11. shake           
+12. turbulence      
+13. tremble         
+14. quake           
+15. shock           
+16. tower           
+17. highest         
+18. point           
+19. of              
+20. the             

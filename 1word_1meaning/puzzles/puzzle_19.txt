@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. interrupt       a) Bough
+2. burn            b) Lent
+3. scorch          c) Mound
+4. singe           d) Tamper
+5. char            e) Sear
+6. alter           f) Preserve
+7. correct         g) Parched
+8. thirsty         h) Rectify
+9. gasping         
+10. dehydrated      
+11. conserve        
+12. jam             
+13. sustain         
+14. borrowed        
+15. rented          
+16. hired           
+17. loaned          
+18. mount           
+19. dune            
+20. limb            

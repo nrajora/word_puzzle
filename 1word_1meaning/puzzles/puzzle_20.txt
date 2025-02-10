@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. spur            a) Paramount
+2. notice          b) Craft
+3. attention       c) Perceive
+4. note            d) Bashful
+5. regard          e) Heed
+6. shy             f) Docile
+7. reserved        g) Shrub
+8. timid           h) Bough
+9. meek            i) Capsized
+10. important       
+11. dominant        
+12. utmost          
+13. significant     
+14. overturned      
+15. tipped          
+16. sank            
+17. bush            
+18. plant           
+19. climber         
+20. skill           

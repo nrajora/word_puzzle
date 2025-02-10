@@ -1,0 +1,22 @@
+Answer Key:
+
+Cuddle -> i
+Arena -> o
+Apex -> b
+Idle -> t
+Idol -> c
+Tendon -> e
+Fault -> p
+Tremor -> f
+Steeple -> h
+Vicar -> a
+Generous -> k
+Selfish -> g
+Moor -> j
+Witty -> s
+Umpire -> q
+Jockey -> l
+Bloom -> d
+Restore -> n
+Fare -> r
+Habit -> m
