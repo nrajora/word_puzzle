@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. ornament        a) Ladle
+2. hate            b) Obscure
+3. loathe          c) Dolly
+4. despise         d) Vague
+5. abor            e) Detest
+6. unclear         f) Spectator
+7. faint           g) Adorn
+8. ambiguous       
+9. imprecise       
+10. indefinite      
+11. model           
+12. puppet          
+13. toy             
+14. figure          
+15. viewer          
+16. watcher         
+17. observer        
+18. witness         
+19. spoon           
+20. scoop           

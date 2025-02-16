@@ -1,0 +1,22 @@
+Answer Key:
+
+fast -> g
+speed -> h
+hasty -> h
+hurried -> h
+swift -> e
+bang -> c
+clatter -> a
+din -> c
+clamour -> a
+embrace -> d
+clasp -> d
+hold -> b
+fondle -> d
+snuggle -> d
+stadium -> i
+ground -> i
+summit -> f
+peak -> f
+top -> f
+zenith -> f

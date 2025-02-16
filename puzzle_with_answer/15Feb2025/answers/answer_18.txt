@@ -1,0 +1,22 @@
+Answer Key:
+
+drained -> b
+drowsy -> b
+knackered -> b
+worn -> b
+out -> b
+dull -> a
+boring -> f
+monotonous -> f
+tedious -> f
+lifeless -> f
+mundane -> f
+surface -> h
+floor -> h
+crust -> e
+layer -> g
+froth -> g
+disorder -> d
+confusion -> c
+mess -> c
+clutter -> c

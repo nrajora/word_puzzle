@@ -1,0 +1,22 @@
+Answer Key:
+
+grasslands -> g
+hill -> f
+upland -> g
+moorland -> g
+heath -> g
+hillock -> f
+lea -> g
+funny -> e
+clever -> e
+droll -> e
+amusing -> e
+humorous -> e
+lively -> b
+referee -> a
+mediator -> a
+rider -> c
+equestrian -> c
+blossom -> d
+flower -> d
+flourish -> d

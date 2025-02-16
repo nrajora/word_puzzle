@@ -1,0 +1,22 @@
+Answer Key:
+
+wave -> f
+fizz -> f
+clay -> b
+ceramics -> b
+earthenware -> b
+china -> b
+dishes -> b
+plates -> b
+porcelain -> b
+rainstorm -> d
+deluge -> a
+heavy -> d
+shower -> d
+gush -> a
+flood -> a
+surge -> a
+grow -> e
+acquire -> c
+procure -> c
+cultivate -> c

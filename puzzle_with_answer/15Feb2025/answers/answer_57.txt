@@ -1,0 +1,22 @@
+Answer Key:
+
+takings -> h
+receipts -> h
+profit -> h
+earnings -> h
+returns -> h
+tax-levied-on-income -> f
+with-enjoyment -> c
+scruffy -> b
+wornout -> b
+wide-open-mouth-in-surprise-or-wonder -> g
+sought -> d
+look-for -> d
+pursue -> d
+go-after -> d
+attempt -> d
+task-for -> d
+to-waste -> a
+victorious -> e
+triumphant -> e
+succeseful -> e

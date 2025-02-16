@@ -1,0 +1,22 @@
+Answer Key:
+
+custom-made -> a
+made-to-order -> a
+bespoke-place-or-thing -> a
+made-for-you -> a
+awarded -> e
+recognition -> e
+honour -> e
+happening-soon -> f
+about-to-happen -> f
+close -> f
+near -> f
+forthcoming -> f
+on-the-way -> f
+famous -> d
+illustrious -> d
+prominent -> d
+great -> d
+to-conquer -> b
+to-overcome -> b
+to-widen -> c

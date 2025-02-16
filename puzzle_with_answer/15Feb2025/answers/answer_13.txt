@@ -1,0 +1,22 @@
+Answer Key:
+
+modern -> b
+fresh -> b
+latest -> b
+current -> b
+novel -> b
+end -> a
+final -> f
+concluding -> f
+later -> f
+previous -> d
+past -> d
+ex -> d
+last -> d
+prior -> d
+chase -> c
+trail -> c
+track -> c
+tail -> c
+shadow -> c
+follow -> e

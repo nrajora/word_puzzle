@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. wilt            a) Agile
+2. flop            b) Droop
+3. sink            c) Retain
+4. slouch          d) Hoard
+5. store           e) Vigilant
+6. pile            
+7. mass            
+8. reserve         
+9. stockpile       
+10. stash           
+11. watchful        
+12. attentive       
+13. alert           
+14. wary            
+15. observant       
+16. heedful         
+17. aware           
+18. recall          
+19. recollect       
+20. remember        

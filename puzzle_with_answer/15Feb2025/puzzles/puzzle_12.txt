@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. blotch          a) Foil
+2. stain           b) Strand
+3. slur            c) Smear
+4. stop            d) Inferno
+5. discourage      e) Terminate
+6. prevent         f) Daunt
+7. frighten        g) Hank
+8. fire            h) Deter
+9. blaze           
+10. furnace         
+11. firestorm       
+12. coil            
+13. reel            
+14. length          
+15. bundle          
+16. ball            
+17. thread          
+18. component       
+19. filament        
+20. fibre           

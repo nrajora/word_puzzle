@@ -1,0 +1,22 @@
+Answer Key:
+
+height -> e
+lofty -> e
+elevation -> e
+hit -> a
+pound -> a
+punch -> a
+slap -> a
+spank -> a
+ignite -> a
+affect -> a
+discover -> a
+lower -> a
+takedown -> a
+copy -> d
+mimic -> d
+imitate -> d
+duplicate -> d
+unimportant -> b
+small -> c
+penalty -> b

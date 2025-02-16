@@ -1,0 +1,22 @@
+Answer Key:
+
+later -> c
+previous -> d
+past -> d
+ex -> d
+last -> d
+prior -> d
+chase -> e
+trail -> e
+track -> e
+tail -> e
+shadow -> e
+follow -> a
+delicate -> b
+flimsy -> f
+brittle -> f
+breakable -> f
+frail -> f
+puny -> f
+smell -> g
+fragrance -> g

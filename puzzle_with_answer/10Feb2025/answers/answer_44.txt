@@ -1,0 +1,22 @@
+Answer Key:
+
+wide -> d
+ditch -> d
+long -> f
+pointed -> f
+rod -> f
+used -> f
+as -> f
+weapon -> f
+superficial -> a
+not-deep -> a
+type -> e
+beid -> e
+like -> e
+oftich -> e
+anger -> c
+rage -> c
+fury -> c
+wrath -> c
+temper -> c
+blocked-out -> b

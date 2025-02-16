@@ -1,0 +1,22 @@
+Answer Key:
+
+charm -> b
+cooking-skills -> c
+have-a-view-from-above -> e
+balcony-overlooking-the-river -> e
+ritual -> a
+events -> a
+religions -> a
+meet -> d
+come-across -> d
+run-into -> d
+stumble-upon -> d
+bump-into -> d
+meet-by-chance -> d
+type-of-tree -> f
+elm -> g
+ash -> g
+oak -> g
+fir -> g
+sycamore -> g
+leak -> g

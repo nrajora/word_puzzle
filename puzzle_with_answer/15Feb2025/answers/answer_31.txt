@@ -1,0 +1,22 @@
+Answer Key:
+
+unsure -> d
+discard -> e
+castoff -> e
+rebuff -> e
+boastfulness -> c
+boasting -> c
+bragging -> c
+arrogance -> c
+ethical -> b
+good -> b
+right -> b
+honest -> b
+honourable -> b
+just -> b
+virtuous -> b
+dishonest -> a
+crooked -> a
+unethical -> a
+immoral -> a
+scare -> f

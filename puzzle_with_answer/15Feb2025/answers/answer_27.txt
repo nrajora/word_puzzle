@@ -1,0 +1,22 @@
+Answer Key:
+
+ornament -> g
+hate -> e
+loathe -> e
+despise -> e
+abor -> e
+unclear -> b
+faint -> d
+ambiguous -> d
+imprecise -> d
+indefinite -> d
+model -> c
+puppet -> c
+toy -> c
+figure -> c
+viewer -> f
+watcher -> f
+observer -> f
+witness -> f
+spoon -> a
+scoop -> a

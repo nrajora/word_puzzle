@@ -1,0 +1,22 @@
+Answer Key:
+
+church -> e
+priest -> h
+monk -> h
+preacher -> h
+minister -> h
+parson -> h
+lavish -> a
+plenty -> b
+substantial -> a
+liberal -> d
+spendthrift -> a
+self-centred -> g
+egoistic -> g
+greedy -> g
+grasslands -> f
+hill -> c
+upland -> f
+moorland -> f
+heath -> f
+hillock -> c

@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. revolt          a) Pristine
+2. unrest          b) Inevitably
+3. disturbance     c) Uprising
+4. jovial          d) Affable
+5. genial          e) Mandatory
+6. amicable        f) Clarity
+7. generous        g) Dormant
+8. giving          h) Charitable
+9. obligatory      
+10. compulsory      
+11. required        
+12. necessary       
+13. essential       
+14. clearness       
+15. lucid           
+16. transparency    
+17. inactive        
+18. sleeping        
+19. resting         
+20. clean           

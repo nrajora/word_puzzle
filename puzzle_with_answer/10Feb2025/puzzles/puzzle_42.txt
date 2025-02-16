@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. edge            a) Spry
+2. rim             b) Indolent
+3. boundary        c) Elevate
+4. circumference   d) Insolent
+5. sporty          e) Legible
+6. healthy         f) Athletic
+7. agile           g) Perimeter
+8. brisk           
+9. lazy            
+10. lethargic       
+11. idle            
+12. rude            
+13. impudent        
+14. disrespectful   
+15. readable        
+16. understandable  
+17. raise           
+18. lift            
+19. uplift          
+20. hoist           

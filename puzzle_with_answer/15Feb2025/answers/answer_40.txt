@@ -1,0 +1,22 @@
+Answer Key:
+
+forefather -> a
+descendents -> a
+forebear -> a
+predecessor -> a
+food -> b
+storage -> b
+storeroom -> b
+larder -> b
+sombre -> e
+grim -> e
+content -> d
+pleased -> d
+satiate -> d
+convinced -> d
+happy -> d
+carless -> f
+thoughtless -> f
+memento -> c
+keepsake -> c
+offering -> g

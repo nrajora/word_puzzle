@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. inactive        a) Dormant
+2. sleeping        b) Crude
+3. resting         c) Pristine
+4. clean           d) Converse
+5. immaculate      e) Poach
+6. unspoiled       
+7. perfect         
+8. spotless        
+9. reverse         
+10. inverse         
+11. contrary        
+12. opposing        
+13. opposite        
+14. rob             
+15. steal           
+16. thieve          
+17. basic           
+18. unpolished      
+19. amateur         
+20. rough           

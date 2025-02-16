@@ -1,0 +1,22 @@
+Answer Key:
+
+paddocks -> b
+(where-horses-are-trained) -> b
+leas -> b
+whiten -> a
+lighten -> a
+decolourize -> a
+blanch -> a
+countryside -> e
+rustic -> e
+pastoral -> e
+city -> c
+town -> c
+borough -> c
+defend -> f
+fake -> d
+pretend -> d
+assume -> d
+sham -> d
+linger -> g
+delay -> g

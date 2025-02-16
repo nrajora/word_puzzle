@@ -1,0 +1,22 @@
+Answer Key:
+
+interrupt -> d
+burn -> e
+scorch -> e
+singe -> e
+char -> e
+alter -> h
+correct -> h
+thirsty -> g
+gasping -> g
+dehydrated -> g
+conserve -> f
+jam -> f
+sustain -> f
+borrowed -> b
+rented -> b
+hired -> b
+loaned -> b
+mount -> c
+dune -> c
+limb -> a

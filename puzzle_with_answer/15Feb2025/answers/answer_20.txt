@@ -1,0 +1,22 @@
+Answer Key:
+
+sustain -> d
+borrowed -> a
+rented -> a
+hired -> a
+loaned -> a
+mount -> b
+dune -> b
+limb -> g
+spur -> g
+notice -> c
+attention -> i
+note -> i
+regard -> i
+shy -> f
+reserved -> f
+timid -> f
+meek -> e
+important -> h
+dominant -> h
+utmost -> h

@@ -1,0 +1,22 @@
+Answer Key:
+
+bow -> g
+down -> e
+friendly -> c
+sociable -> c
+affable -> a
+likable -> a
+tasteless -> i
+mild -> h
+plain -> i
+flavourless -> i
+tired -> d
+fatigue -> d
+drained -> d
+drowsy -> d
+knackered -> d
+worn -> d
+out -> b
+dull -> j
+boring -> f
+monotonous -> f

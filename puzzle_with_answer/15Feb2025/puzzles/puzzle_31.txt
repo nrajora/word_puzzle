@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. unsure          a) Corrupt
+2. discard         b) Moral
+3. castoff         c) Swagger
+4. rebuff          d) Tentative
+5. boastfulness    e) Reject
+6. boasting        f) Daunt
+7. bragging        
+8. arrogance       
+9. ethical         
+10. good            
+11. right           
+12. honest          
+13. honourable      
+14. just            
+15. virtuous        
+16. dishonest       
+17. crooked         
+18. unethical       
+19. immoral         
+20. scare           

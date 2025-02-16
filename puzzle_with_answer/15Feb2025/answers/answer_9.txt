@@ -1,0 +1,22 @@
+Answer Key:
+
+avoid -> a
+escape -> a
+duck -> a
+evade -> a
+elude -> a
+act -> f
+play -> f
+vault -> c
+cupola -> c
+roof -> c
+ceiling -> c
+scan -> e
+rummage -> e
+seek -> e
+probe -> e
+investigate -> e
+hunt -> b
+search -> e
+scrutinising -> e
+tube -> d

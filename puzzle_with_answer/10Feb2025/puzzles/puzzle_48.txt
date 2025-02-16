@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. abode           a) Contemplated
+2. infer           b) Bustling
+3. surmise         c) Intimidating
+4. calculate       d) Inquisitive
+5. draw            e) Enthral
+6. conclusion      f) Sprawling
+7. a-bag-with-a-long-strap. g) Rifled
+8. search-quickly-through-something. h) Vicked
+9.                 i) Satchel
+10. thinking        j) Deduce
+11. deep-thought    k) Haggle
+12. remembering-past l) Habitat
+13. scratch         
+14. frightening     
+15. spreading-out-over-a-larger-area 
+16. curious         
+17. interested      
+18. intrusive       
+19. concerned       
+20. crowded         

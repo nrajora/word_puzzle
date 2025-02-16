@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. exquisite       a) Estimate
+2. refined         b) Perceive
+3. petite          c) Deduce
+4. guess           d) Dainty
+5. crock           e) Animated
+6. party           f) Spry
+7. celebration     g) Bash
+8. gala            h) Athletic
+9. observe         i) Arrogant
+10. remark          
+11. distinguish     
+12. recognise       
+13. big             
+14. headed          
+15. superior        
+16. conceited       
+17. active          
+18. lively          
+19. energetic       
+20. vigorous        

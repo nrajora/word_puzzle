@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. recall          a) Decline
+2. recollect       b) Retain
+3. remember        c) Opponent
+4. preserve        d) Valour
+5. enemy           
+6. foe             
+7. rival           
+8. challenger      
+9. adversary       
+10. ally            
+11. courage         
+12. bravery         
+13. spirit          
+14. nerve           
+15. fearless        
+16. boldness        
+17. gallantry       
+18. heroic          
+19. pluck           
+20. decay           

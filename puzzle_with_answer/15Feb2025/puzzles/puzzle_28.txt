@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. dipper          a) Ladle
+2. server          b) Urn
+3. outfit          c) Suit
+4. costume         d) Rind
+5. uniform         e) Warren
+6. ensemble        
+7. peel            
+8. skin            
+9. husk            
+10. coat            
+11. pot             
+12. container       
+13. vessel          
+14. pitcher         
+15. jug             
+16. den             
+17. hole            
+18. earth           
+19. habitat         
+20. burrow          

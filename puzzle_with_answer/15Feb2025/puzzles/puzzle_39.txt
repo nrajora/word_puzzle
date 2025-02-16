@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. speech          a) Thrifty
+2. difficulty      b) Malady
+3. slutter         c) Treasured
+4. cherished       d) Glory
+5. beloved         e) Lisp
+6. precious        
+7. dear            
+8. expensive       
+9. miserly         
+10. careful         
+11. frugal          
+12. economical      
+13. cheap           
+14. brilliance      
+15. wonder          
+16. splendour       
+17. ailment         
+18. illness         
+19. sickness        
+20. condition       

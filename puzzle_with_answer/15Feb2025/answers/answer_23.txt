@@ -1,0 +1,22 @@
+Answer Key:
+
+launch -> g
+tow -> j
+drag -> j
+pull -> j
+lug -> j
+heave -> j
+border -> b
+outlying -> h
+frontier -> h
+decline -> i
+decrease -> c
+fruit -> f
+beauty -> d
+wow -> f
+presentation -> a
+introduction -> a
+take-off -> a
+departure -> a
+rebel -> e
+rising -> e

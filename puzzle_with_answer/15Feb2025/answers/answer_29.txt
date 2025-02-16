@@ -1,0 +1,22 @@
+Answer Key:
+
+lair -> i
+rarely -> d
+infrequently -> d
+occasionally -> d
+hardly -> d
+agree -> a
+correspond -> b
+harmonize -> b
+coincide -> b
+misplace -> e
+hidden -> e
+make -> f
+peace -> f
+lull -> f
+graceful -> c
+exquisite -> c
+refined -> c
+petite -> c
+guess -> g
+crock -> h

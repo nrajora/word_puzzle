@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. clay            a) Downpour
+2. ceramics        b) China
+3. earthenware     c) Rapid
+4. dishes          d) Reap
+5. plates          e) Pottery
+6. porcelain       f) Scurry
+7. rainstorm       g) Torrent
+8. deluge          h) Bloom
+9. heavy           
+10. shower          
+11. gush            
+12. flood           
+13. surge           
+14. grow            
+15. acquire         
+16. procure         
+17. cultivate       
+18. fast            
+19. speed           
+20. hasty           

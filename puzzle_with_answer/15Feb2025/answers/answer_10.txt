@@ -1,0 +1,22 @@
+Answer Key:
+
+channel -> a
+trough -> a
+shove -> c
+push -> c
+prod -> c
+plunge -> c
+stab -> c
+insertion -> c
+part -> h
+fragment -> b
+piece -> b
+portion -> b
+segment -> b
+element -> h
+hurry -> d
+hasten -> f
+quicken -> f
+rush -> f
+lukewarm -> e
+extravagant -> g

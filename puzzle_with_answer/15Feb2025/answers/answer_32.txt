@@ -1,0 +1,22 @@
+Answer Key:
+
+overwhelm -> a
+deter -> a
+expedition -> b
+voyage -> b
+trip -> b
+excursions -> b
+outing -> b
+journey -> b
+risk -> d
+danger -> d
+threat -> d
+peril -> d
+hazard -> d
+dangerous -> d
+debris -> f
+ruin -> c
+wreck -> f
+rubble -> f
+remains -> f
+cargo -> e

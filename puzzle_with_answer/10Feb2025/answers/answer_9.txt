@@ -1,0 +1,22 @@
+Answer Key:
+
+cupola -> b
+roof -> b
+ceiling -> b
+scan -> d
+rummage -> d
+seek -> d
+probe -> d
+investigate -> d
+hunt -> e
+search -> d
+scrutinising -> d
+tube -> c
+channel -> c
+trough -> c
+shove -> a
+push -> a
+prod -> a
+plunge -> a
+stab -> a
+insertion -> a

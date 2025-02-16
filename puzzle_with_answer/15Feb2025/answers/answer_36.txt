@@ -1,0 +1,22 @@
+Answer Key:
+
+preserve -> b
+enemy -> a
+foe -> a
+rival -> a
+challenger -> a
+adversary -> a
+courage -> d
+bravery -> d
+spirit -> d
+nerve -> d
+fearless -> d
+boldness -> d
+gallantry -> d
+heroic -> d
+pluck -> d
+decay -> f
+lessen -> e
+drop -> f
+deteriorate -> f
+going-up -> c

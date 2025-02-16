@@ -1,0 +1,22 @@
+Answer Key:
+
+edge -> g
+rim -> g
+boundary -> g
+circumference -> g
+sporty -> f
+healthy -> f
+agile -> a
+brisk -> a
+lazy -> b
+lethargic -> b
+idle -> b
+rude -> d
+impudent -> d
+disrespectful -> d
+readable -> e
+understandable -> e
+raise -> c
+lift -> c
+uplift -> c
+hoist -> c

@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. modern          a) Terminate
+2. fresh           b) Recent
+3. latest          c) Pursue
+4. current         d) Former
+5. novel           e) Abide
+6. end             f) Latter
+7. final           
+8. concluding      
+9. later           
+10. previous        
+11. past            
+12. ex              
+13. last            
+14. prior           
+15. chase           
+16. trail           
+17. track           
+18. tail            
+19. shadow          
+20. follow          

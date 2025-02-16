@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. cupola          a) Thrust
+2. roof            b) Dome
+3. ceiling         c) Shaft
+4. scan            d) Trawl
+5. rummage         e) Pursue
+6. seek            
+7. probe           
+8. investigate     
+9. hunt            
+10. search          
+11. scrutinising    
+12. tube            
+13. channel         
+14. trough          
+15. shove           
+16. push            
+17. prod            
+18. plunge          
+19. stab            
+20. insertion       

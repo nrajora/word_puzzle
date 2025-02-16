@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. lea             a) Moor
+2. funny           b) Umpire
+3. clever          c) Fare
+4. droll           d) Witty
+5. amusing         e) Bloom
+6. referee         f) Jockey
+7. mediator        g) Restore
+8. rider           
+9. equestrian      
+10. blossom         
+11. flower          
+12. flourish        
+13. thrive          
+14. develop         
+15. repair          
+16. fix             
+17. rebuild         
+18. cost            
+19. fee             
+20. price           

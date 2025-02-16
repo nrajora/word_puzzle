@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. shock           a) Selfish
+2. tower           b) Generous
+3. highest         c) Steeple
+4. point           d) Tremor
+5. of              e) Amples
+6. the             f) Charitable
+7. church          g) Vicar
+8. priest          
+9. monk            
+10. preacher        
+11. minister        
+12. parson          
+13. lavish          
+14. plenty          
+15. substantial     
+16. liberal         
+17. spendthrift     
+18. self-centred    
+19. egoistic        
+20. greedy          

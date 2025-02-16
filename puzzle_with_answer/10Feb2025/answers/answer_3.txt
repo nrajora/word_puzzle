@@ -1,0 +1,22 @@
+Answer Key:
+
+clay -> e
+ceramics -> e
+earthenware -> e
+dishes -> b
+plates -> b
+porcelain -> b
+rainstorm -> a
+deluge -> g
+heavy -> a
+shower -> a
+gush -> g
+flood -> g
+surge -> g
+grow -> h
+acquire -> d
+procure -> d
+cultivate -> d
+fast -> f
+speed -> c
+hasty -> c

@@ -1,0 +1,22 @@
+Answer Key:
+
+thrive -> d
+develop -> d
+repair -> c
+fix -> c
+rebuild -> c
+cost -> e
+fee -> e
+price -> e
+tariff -> e
+toll -> e
+custom -> f
+routine -> a
+practice -> f
+tradition -> f
+pattern -> f
+slave -> b
+toil -> b
+worker -> b
+labour -> b
+slog -> b

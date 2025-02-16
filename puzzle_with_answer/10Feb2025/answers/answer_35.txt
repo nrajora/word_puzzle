@@ -1,0 +1,22 @@
+Answer Key:
+
+recall -> b
+recollect -> b
+remember -> b
+preserve -> b
+enemy -> c
+foe -> c
+rival -> c
+challenger -> c
+adversary -> c
+ally -> c
+courage -> d
+bravery -> d
+spirit -> d
+nerve -> d
+fearless -> d
+boldness -> d
+gallantry -> d
+heroic -> d
+pluck -> d
+decay -> a

@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. lair            a) Strike
+2. rarely          b) Concur
+3. infrequently    c) Dainty
+4. occasionally    d) Seldom
+5. hardly          e) Conceal
+6. agree           f) Truce
+7. correspond      g) Deduce
+8. harmonize       h) Estimate
+9. coincide        i) Warren
+10. misplace        
+11. hidden          
+12. make            
+13. peace           
+14. lull            
+15. graceful        
+16. exquisite       
+17. refined         
+18. petite          
+19. guess           
+20. crock           

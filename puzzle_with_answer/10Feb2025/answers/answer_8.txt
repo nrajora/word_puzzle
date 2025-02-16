@@ -1,0 +1,22 @@
+Answer Key:
+
+tariff -> g
+toll -> g
+custom -> a
+routine -> f
+practice -> a
+tradition -> a
+pattern -> a
+slave -> e
+toil -> e
+worker -> e
+labour -> e
+slog -> e
+avoid -> d
+escape -> d
+duck -> d
+evade -> d
+elude -> d
+act -> b
+play -> b
+vault -> c

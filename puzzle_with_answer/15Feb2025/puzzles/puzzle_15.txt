@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. mantra          a) Chant
+2. recite          b) Grit
+3. repeat          c) Rack
+4. branch          d) Tempest
+5. bough           e) Scum
+6. appendage       f) Bough
+7. gravel          g) Wind
+8. shingle         h) Limb
+9. sand            i) Meadows
+10. dirt            
+11. pebbles         
+12. stones          
+13. gale            
+14. gust            
+15. breeze          
+16. storm           
+17. hurricane       
+18. cyclone         
+19. fields          
+20. pastures        

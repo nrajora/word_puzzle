@@ -1,0 +1,22 @@
+Answer Key:
+
+ornate -> h
+decorative -> h
+elegant -> c
+unfriendly -> g
+antagonistic -> g
+aggressive -> g
+defrost -> i
+melt -> i
+liquify -> i
+soften -> i
+prune -> f
+crop -> f
+cut -> d
+clip -> f
+tinge -> a
+dye -> a
+colour -> e
+tint -> a
+pigment -> a
+mark -> b

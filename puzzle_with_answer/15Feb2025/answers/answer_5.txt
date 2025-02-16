@@ -1,0 +1,22 @@
+Answer Key:
+
+pinnacle -> f
+motionless -> g
+stationary -> g
+indolent -> g
+sluggish -> b
+lazy -> b
+star -> a
+celebrity -> a
+hero -> a
+muscle -> e
+ligament -> e
+cartilage -> e
+error -> c
+responsibility -> c
+liability -> c
+blunder -> c
+shake -> d
+turbulence -> d
+tremble -> d
+quake -> d

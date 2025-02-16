@@ -1,0 +1,22 @@
+Answer Key:
+
+esteem -> c
+respect -> c
+admire -> c
+decorate -> f
+garnish -> f
+ornament -> f
+hate -> d
+loathe -> d
+despise -> d
+abor -> d
+unclear -> b
+faint -> e
+ambiguous -> e
+imprecise -> e
+indefinite -> e
+model -> g
+puppet -> g
+toy -> g
+figure -> g
+viewer -> a

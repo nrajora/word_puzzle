@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. bad-tempered    a) Grumpy
+2. cranky          b) Moat
+3. sullen          c) Shallow
+4. annoyed         d) Еmu
+5. riled           e) Bid
+6. upset           f) Lance
+7. hurt            g) Ire
+8. fed-up          h) Miffed
+9. offer           
+10. invite          
+11. a-deep-wide-ditch 
+12. a-long-pointed-rod-used-as-weapon 
+13. superficial     
+14. not-deep        
+15. a-type-of-bird-like-ostrich 
+16. anger           
+17. rage            
+18. fury            
+19. wrath           
+20. temper          

@@ -1,0 +1,22 @@
+Answer Key:
+
+quite -> e
+obedient -> e
+pliant -> e
+tame -> e
+living-room -> c
+family-room -> c
+sitting-room -> c
+frustrate -> d
+hinder -> d
+outwit -> d
+shout -> b
+roar -> b
+yell -> b
+bawl -> b
+holler -> b
+row -> b
+throw -> a
+fling -> f
+toss -> a
+chuck -> f

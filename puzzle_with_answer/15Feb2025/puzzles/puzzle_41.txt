@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. gift            a) Tranquillity
+2. present         b) Donation
+3. contribution    c) Vigorous
+4. harmony         d) Persuade
+5. serene          e) Hoax
+6. calm            
+7. sanctuary       
+8. refugee         
+9. trick           
+10. joke            
+11. jest            
+12. prank           
+13. cheat           
+14. fraud           
+15. bluff           
+16. coax            
+17. entice          
+18. cause           
+19. lead            
+20. robust          

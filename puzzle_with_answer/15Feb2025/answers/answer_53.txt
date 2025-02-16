@@ -1,0 +1,22 @@
+Answer Key:
+
+location -> c
+situated -> c
+placed -> c
+trivial -> d
+negligible -> d
+insignificant -> d
+origin -> b
+start -> b
+root -> b
+peculiarity -> e
+too-many -> a
+too-much -> a
+excess -> a
+abundant -> a
+surplus -> a
+gloats -> f
+show-off -> f
+brag -> f
+lots-of -> g
+many -> g

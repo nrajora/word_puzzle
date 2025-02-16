@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. wave            a) Torrent
+2. fizz            b) Pottery
+3. clay            c) Reap
+4. ceramics        d) Downpour
+5. earthenware     e) Bloom
+6. china           f) Perm
+7. dishes          
+8. plates          
+9. porcelain       
+10. rainstorm       
+11. deluge          
+12. heavy           
+13. shower          
+14. gush            
+15. flood           
+16. surge           
+17. grow            
+18. acquire         
+19. procure         
+20. cultivate       

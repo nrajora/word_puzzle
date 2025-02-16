@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. unfinished      a) Crude
+2. unskilful       b) Adore
+3. rookie          c) Futile
+4. middle          d) Tactful
+5. midway          e) Intermediate
+6. mean            
+7. in              
+8. between         
+9. sensitive       
+10. thoughtful      
+11. considerate     
+12. discreet        
+13. diplomatic      
+14. useless         
+15. pointless       
+16. fruitless       
+17. vain            
+18. wasted          
+19. love            
+20. worship         

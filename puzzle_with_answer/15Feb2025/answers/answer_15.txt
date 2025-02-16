@@ -1,0 +1,22 @@
+Answer Key:
+
+mantra -> a
+recite -> a
+repeat -> a
+branch -> f
+bough -> h
+appendage -> h
+gravel -> b
+shingle -> b
+sand -> b
+dirt -> e
+pebbles -> b
+stones -> b
+gale -> d
+gust -> g
+breeze -> g
+storm -> c
+hurricane -> d
+cyclone -> d
+fields -> i
+pastures -> i

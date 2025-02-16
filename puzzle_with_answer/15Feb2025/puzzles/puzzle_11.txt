@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. ornate          a) Stain
+2. decorative      b) Smear
+3. elegant         c) Dainty
+4. unfriendly      d) Vicked
+5. antagonistic    e) Peach
+6. aggressive      f) Trim
+7. defrost         g) Hostile
+8. melt            h) Elaborate
+9. liquify         i) Thaw
+10. soften          
+11. prune           
+12. crop            
+13. cut             
+14. clip            
+15. tinge           
+16. dye             
+17. colour          
+18. tint            
+19. pigment         
+20. mark            

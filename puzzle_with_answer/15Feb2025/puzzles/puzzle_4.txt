@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. fast            a) Din
+2. speed           b) Retain
+3. hasty           c) Rattle
+4. hurried         d) Cuddle
+5. swift           e) Agile
+6. bang            f) Apex
+7. clatter         g) Scurry
+8. din             h) Rapid
+9. clamour         i) Arena
+10. embrace         
+11. clasp           
+12. hold            
+13. fondle          
+14. snuggle         
+15. stadium         
+16. ground          
+17. summit          
+18. peak            
+19. top             
+20. zenith          

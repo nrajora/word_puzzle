@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. thrive          a) Dreary
+2. develop         b) Drudge
+3. repair          c) Restore
+4. fix             d) Bloom
+5. rebuild         e) Fare
+6. cost            f) Habit
+7. fee             
+8. price           
+9. tariff          
+10. toll            
+11. custom          
+12. routine         
+13. practice        
+14. tradition       
+15. pattern         
+16. slave           
+17. toil            
+18. worker          
+19. labour          
+20. slog            

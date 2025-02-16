@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. rubbish         a) Rectify
+2. protection      b) Shield
+3. armour          c) Preserve
+4. defence         d) Litter
+5. buffer          e) Sear
+6. interfere       f) Parched
+7. meddle          g) Tamper
+8. fiddle          
+9. interrupt       
+10. burn            
+11. scorch          
+12. singe           
+13. char            
+14. alter           
+15. correct         
+16. thirsty         
+17. gasping         
+18. dehydrated      
+19. conserve        
+20. jam             

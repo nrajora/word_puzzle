@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. avoid           a) Dodge
+2. escape          b) Pursue
+3. duck            c) Dome
+4. evade           d) Shaft
+5. elude           e) Trawl
+6. act             f) Perform
+7. play            
+8. vault           
+9. cupola          
+10. roof            
+11. ceiling         
+12. scan            
+13. rummage         
+14. seek            
+15. probe           
+16. investigate     
+17. hunt            
+18. search          
+19. scrutinising    
+20. tube            

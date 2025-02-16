@@ -1,0 +1,22 @@
+Answer Key:
+
+lea -> a
+funny -> d
+clever -> d
+droll -> d
+amusing -> d
+referee -> b
+mediator -> b
+rider -> f
+equestrian -> f
+blossom -> e
+flower -> e
+flourish -> e
+thrive -> e
+develop -> e
+repair -> g
+fix -> g
+rebuild -> g
+cost -> c
+fee -> c
+price -> c

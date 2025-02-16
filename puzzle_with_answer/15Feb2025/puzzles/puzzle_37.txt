@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. machine-or-shaft a) Serious
+2. muscle-that-raises-body-part b) Earnest
+3. serious         c) Elevator
+4. grave           d) Terminate
+5. sober           e) Gather
+6. genuine         f) Spry
+7. solemn          g) Scarcity
+8. conclude        
+9. sack            
+10. axe             
+11. dismiss         
+12. assemble        
+13. congregate      
+14. collect         
+15. shortage        
+16. lack            
+17. dearth          
+18. scanty          
+19. meagre          
+20. nimble          

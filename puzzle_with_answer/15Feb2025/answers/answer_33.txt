@@ -1,0 +1,22 @@
+Answer Key:
+
+load -> e
+goods -> e
+stuff -> e
+wrinkle -> c
+crinkle -> c
+rumple -> c
+crumple -> c
+sprint -> d
+stroll -> d
+walk -> d
+ramble -> d
+amble -> d
+meander -> d
+noisy -> b
+unruly -> f
+loud -> g
+disorderly -> a
+boisterous -> f
+raucous -> f
+disruptive -> f

@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. rustic          a) Abide
+2. pastoral        b) Defer
+3. city            c) Dawdle
+4. town            d) Feign
+5. borough         e) Punctual
+6. defend          f) Rural
+7. fake            g) Urban
+8. pretend         h) Fend
+9. assume          
+10. sham            
+11. linger          
+12. delay           
+13. loiter          
+14. plod            
+15. prompt          
+16. on              
+17. time            
+18. accept          
+19. submit          
+20. comply          

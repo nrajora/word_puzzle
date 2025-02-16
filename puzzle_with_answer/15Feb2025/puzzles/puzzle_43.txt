@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. fine            a) Detour
+2. petty           b) Scurry
+3. cloudy          c) Jealous
+4. muddy           d) Diminish
+5. misty           e) Miffed
+6. smoky           f) Warrior
+7. dense           g) Opaque
+8. scramble        h) Infectious
+9. dash            i) Trivial
+10. diversion       
+11. deviation       
+12. envious         
+13. bitter          
+14. green-eyed      
+15. resentful       
+16. contract        
+17. contagious      
+18. catching        
+19. transmittable   
+20. solider         

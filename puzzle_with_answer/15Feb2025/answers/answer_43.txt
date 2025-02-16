@@ -1,0 +1,22 @@
+Answer Key:
+
+fine -> i
+petty -> i
+cloudy -> g
+muddy -> g
+misty -> g
+smoky -> g
+dense -> g
+scramble -> b
+dash -> b
+diversion -> a
+deviation -> a
+envious -> c
+bitter -> c
+green-eyed -> c
+resentful -> e
+contract -> d
+contagious -> h
+catching -> h
+transmittable -> h
+solider -> f

@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. tedious         a) Dreary
+2. lifeless        b) Rind
+3. mundane         c) Litter
+4. surface         d) Malady
+5. floor           e) Shield
+6. crust           f) Scum
+7. layer           g) Tamper
+8. froth           h) Deck
+9. disorder        
+10. confusion       
+11. mess            
+12. clutter         
+13. rubbish         
+14. protection      
+15. armour          
+16. defence         
+17. buffer          
+18. interfere       
+19. meddle          
+20. fiddle          

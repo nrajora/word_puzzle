@@ -1,0 +1,22 @@
+Answer Key:
+
+trooper -> h
+fighter -> h
+dotted -> f
+freckled -> f
+creek -> g
+bay -> g
+cove -> g
+hurl -> e
+edge -> i
+rim -> i
+boundary -> i
+circumference -> i
+sporty -> c
+healthy -> c
+agile -> d
+brisk -> d
+lethargic -> a
+idle -> a
+rude -> b
+impudent -> b

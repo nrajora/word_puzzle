@@ -1,0 +1,22 @@
+Answer Key:
+
+delicate -> e
+flimsy -> c
+brittle -> c
+breakable -> c
+frail -> c
+puny -> c
+smell -> a
+fragrance -> a
+perfume -> a
+scent -> a
+whiff -> a
+odour -> a
+cry -> b
+utter -> d
+announce -> g
+revel -> g
+divulge -> g
+sing -> f
+tune -> f
+hymn -> f

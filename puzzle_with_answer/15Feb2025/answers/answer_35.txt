@@ -1,0 +1,22 @@
+Answer Key:
+
+wilt -> b
+flop -> b
+sink -> b
+slouch -> b
+store -> d
+pile -> d
+mass -> d
+reserve -> d
+stockpile -> d
+stash -> d
+watchful -> e
+attentive -> e
+alert -> a
+wary -> e
+observant -> e
+heedful -> e
+aware -> e
+recall -> c
+recollect -> c
+remember -> c

@@ -1,0 +1,22 @@
+Answer Key:
+
+rich -> h
+prosperous -> h
+wealthy -> h
+thriving -> h
+poor -> a
+penniless -> a
+needy -> a
+simple -> d
+innocent -> c
+inexperienced -> f
+novice -> f
+beginner -> f
+trainee -> f
+apprentice -> f
+stare -> b
+ogle -> b
+mock -> g
+taunt -> g
+ridicule -> g
+insult -> e

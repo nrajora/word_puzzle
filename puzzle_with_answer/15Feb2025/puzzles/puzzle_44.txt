@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. trooper         a) Indolent
+2. fighter         b) Insolent
+3. dotted          c) Athletic
+4. freckled        d) Spry
+5. creek           e) Heave
+6. bay             f) Speckled
+7. cove            g) Inlet
+8. hurl            h) Warrior
+9. edge            i) Perimeter
+10. rim             
+11. boundary        
+12. circumference   
+13. sporty          
+14. healthy         
+15. agile           
+16. brisk           
+17. lethargic       
+18. idle            
+19. rude            
+20. impudent        

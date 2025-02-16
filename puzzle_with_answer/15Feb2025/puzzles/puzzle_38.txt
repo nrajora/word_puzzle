@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. responsive      a) Wail
+2. soft            b) Retreat
+3. flexible        c) Supple
+4. mobile          d) Protrude
+5. elastic         e) Agile
+6. recoil          
+7. withdraw        
+8. evacuate        
+9. flee            
+10. stick-out       
+11. jut-out         
+12. overhang        
+13. bulge           
+14. swell           
+15. obtrude         
+16. howl            
+17. moan            
+18. scream          
+19. yelp            
+20. whine           

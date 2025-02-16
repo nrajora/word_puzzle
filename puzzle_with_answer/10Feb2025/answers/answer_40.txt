@@ -1,0 +1,22 @@
+Answer Key:
+
+height -> e
+lofty -> e
+elevation -> e
+hit -> c
+pound -> c
+punch -> c
+copy -> d
+mimic -> d
+imitate -> d
+unimportant -> b
+small -> f
+penalty -> b
+fine -> b
+petty -> b
+cloudy -> a
+muddy -> a
+misty -> a
+smoky -> a
+dense -> a
+scramble -> g

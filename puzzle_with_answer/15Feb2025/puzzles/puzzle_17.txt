@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. loiter          a) Bland
+2. plod            b) Punctual
+3. prompt          c) Dawdle
+4. on              d) Lenient
+5. time            e) Defer
+6. accept          f) Weary
+7. submit          g) Abide
+8. comply          h) Affable
+9. bow             i) Droop
+10. down            j) Amiable
+11. friendly        
+12. sociable        
+13. affable         
+14. likable         
+15. tasteless       
+16. mild            
+17. plain           
+18. flavourless     
+19. tired           
+20. fatigue         

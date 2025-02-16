@@ -1,0 +1,22 @@
+Answer Key:
+
+machine-or-shaft -> c
+muscle-that-raises-body-part -> c
+serious -> b
+grave -> a
+sober -> a
+genuine -> b
+solemn -> a
+conclude -> d
+sack -> d
+axe -> d
+dismiss -> d
+assemble -> e
+congregate -> e
+collect -> e
+shortage -> g
+lack -> g
+dearth -> g
+scanty -> g
+meagre -> g
+nimble -> f

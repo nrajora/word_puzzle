@@ -1,0 +1,22 @@
+Answer Key:
+
+cerebral -> g
+cognitive -> g
+rational -> g
+conceptual -> g
+income -> c
+takings -> c
+receipts -> c
+profit -> c
+earnings -> c
+returns -> c
+tax-levied-on-income -> f
+with-enjoyment -> d
+scruffy -> b
+wornout -> b
+wide-open-mouth-in-surprise-or-wonder -> a
+sough -> e
+tlook-for -> e
+pursue -> e
+go-after -> e
+attemptask-for -> e

@@ -1,0 +1,22 @@
+Answer Key:
+
+ruin -> c
+wreck -> e
+rubble -> e
+remains -> e
+cargo -> d
+load -> d
+goods -> d
+wrinkle -> b
+crinkle -> b
+rumple -> b
+crumple -> b
+sprint -> g
+stroll -> g
+walk -> g
+ramble -> g
+amble -> g
+meander -> g
+noisy -> h
+unruly -> a
+loud -> f

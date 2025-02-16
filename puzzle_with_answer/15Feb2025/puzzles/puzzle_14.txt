@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. delicate        a) Aroma
+2. flimsy          b) Wail
+3. brittle         c) Fragile
+4. breakable       d) Bid
+5. frail           e) Dainty
+6. puny            f) Chant
+7. smell           g) Blurt
+8. fragrance       
+9. perfume         
+10. scent           
+11. whiff           
+12. odour           
+13. cry             
+14. utter           
+15. announce        
+16. revel           
+17. divulge         
+18. sing            
+19. tune            
+20. hymn            

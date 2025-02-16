@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. scorn           a) Rover
+2. tar             b) Sew
+3. pitch           c) Flume
+4. runway          d) Jeer
+5. change          e) Rectify
+6. modify          f) Amendment
+7. amend           g) Arena
+8. torrent         h) Perm
+9. waterfall       i) Tarmac
+10. stich           
+11. embroidery      
+12. seam            
+13. hem             
+14. traveller       
+15. vagrant         
+16. vagabond        
+17. nomad           
+18. wanderer        
+19. tramp           
+20. curl            

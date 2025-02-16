@@ -1,0 +1,22 @@
+Answer Key:
+
+dipper -> a
+server -> a
+outfit -> c
+costume -> c
+uniform -> c
+ensemble -> c
+peel -> d
+skin -> d
+husk -> d
+coat -> d
+pot -> b
+container -> b
+vessel -> b
+pitcher -> b
+jug -> b
+den -> e
+hole -> e
+earth -> e
+habitat -> e
+burrow -> e

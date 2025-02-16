@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. charm           a) Ceremonial
+2. cooking-skills  b) Enchant
+3. have-a-view-from-above c) Culinary
+4. balcony-overlooking-the-river d) Encounter
+5. ritual          e) Overlooking
+6. events          f) Sycamore
+7. religions       g) Trees
+8. meet            
+9. come-across     
+10. run-into        
+11. stumble-upon    
+12. bump-into       
+13. meet-by-chance  
+14. type-of-tree    
+15. elm             
+16. ash             
+17. oak             
+18. fir             
+19. sycamore        
+20. leak            

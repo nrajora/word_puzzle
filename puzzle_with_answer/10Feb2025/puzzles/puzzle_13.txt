@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. later           a) Abide
+2. previous        b) Dainty
+3. past            c) Latter
+4. ex              d) Former
+5. last            e) Pursue
+6. prior           f) Fragile
+7. chase           g) Aroma
+8. trail           
+9. track           
+10. tail            
+11. shadow          
+12. follow          
+13. delicate        
+14. flimsy          
+15. brittle         
+16. breakable       
+17. frail           
+18. puny            
+19. smell           
+20. fragrance       

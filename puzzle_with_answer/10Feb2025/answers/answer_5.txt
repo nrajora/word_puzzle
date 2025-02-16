@@ -1,0 +1,22 @@
+Answer Key:
+
+star -> e
+celebrity -> e
+hero -> e
+muscle -> d
+ligament -> d
+cartilage -> d
+error -> c
+responsibility -> c
+liability -> c
+blunder -> c
+shake -> a
+turbulence -> a
+tremble -> a
+quake -> a
+shock -> a
+tower -> f
+highest -> f
+point -> f
+of -> b
+the -> f

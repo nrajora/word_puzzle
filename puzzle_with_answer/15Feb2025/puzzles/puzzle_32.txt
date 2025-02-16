@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. overwhelm       a) Daunt
+2. deter           b) Safari
+3. expedition      c) Marred
+4. voyage          d) Menace
+5. trip            e) Freight
+6. excursions      f) Wreckage
+7. outing          
+8. journey         
+9. risk            
+10. danger          
+11. threat          
+12. peril           
+13. hazard          
+14. dangerous       
+15. debris          
+16. ruin            
+17. wreck           
+18. rubble          
+19. remains         
+20. cargo           

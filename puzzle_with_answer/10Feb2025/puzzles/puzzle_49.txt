@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. cuvys           a) Winding
+2. twisting        b) Haggle
+3. bargain         c) Encounter
+4. range           d) Sycamore
+5. types           e) Enchant
+6. variety         f) Ceremonial
+7. attractive      g) Culinary
+8. cookingskills   h) Array
+9. have-a-view-from-above-or-balcony-overlooking-the-rivere i) Overlooking
+10. ritual          j) Trees
+11. events          
+12. religions       
+13. meet            
+14. come-across     
+15. run-into        
+16. stumble-upon    
+17. bump-into       
+18. meet-by-chance  
+19. type-of-tree    
+20. elm             

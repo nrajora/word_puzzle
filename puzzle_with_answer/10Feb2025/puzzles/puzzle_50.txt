@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. ash             a) Glut
+2. oak             b) Stems
+3. fir             c) Nestles
+4. sycamore        d) Trees
+5. leak            e) Quirks
+6. location        f) Petty
+7. situated        
+8. placed          
+9. trivial         
+10. negligible      
+11. insignificant   
+12. origin          
+13. start           
+14. root            
+15. peculiarity     
+16. too-many        
+17. too-much        
+18. excess          
+19. abundant        
+20. surplus         

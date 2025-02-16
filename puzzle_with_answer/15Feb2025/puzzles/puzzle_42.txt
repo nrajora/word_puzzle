@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. height          a) Strike
+2. lofty           b) Trivial
+3. elevation       c) Petty
+4. hit             d) Replicate
+5. pound           e) Altitude
+6. punch           
+7. slap            
+8. spank           
+9. ignite          
+10. affect          
+11. discover        
+12. lower           
+13. takedown        
+14. copy            
+15. mimic           
+16. imitate         
+17. duplicate       
+18. unimportant     
+19. small           
+20. penalty         

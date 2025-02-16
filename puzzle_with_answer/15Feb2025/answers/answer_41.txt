@@ -1,0 +1,22 @@
+Answer Key:
+
+gift -> b
+present -> b
+contribution -> b
+harmony -> a
+serene -> a
+calm -> a
+sanctuary -> a
+refugee -> a
+trick -> e
+joke -> e
+jest -> e
+prank -> e
+cheat -> e
+fraud -> e
+bluff -> e
+coax -> d
+entice -> d
+cause -> d
+lead -> d
+robust -> c

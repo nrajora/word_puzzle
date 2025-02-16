@@ -1,0 +1,22 @@
+Match the synonyms numbered on the left in lower-case with it's correct meaning on the right in Capital letter:
+
+1. launch          a) Launch
+2. tow             b) Perimeter
+3. drag            c) Subsidise
+4. pull            d) Glory
+5. lug             e) Uprising
+6. heave           f) Peach
+7. border          g) Hurl
+8. outlying        h) Fringe
+9. frontier        i) Descent
+10. decline         j) Haul
+11. decrease        
+12. fruit           
+13. beauty          
+14. wow             
+15. presentation    
+16. introduction    
+17. take-off        
+18. departure       
+19. rebel           
+20. rising          
